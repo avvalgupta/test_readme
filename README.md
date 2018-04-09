@@ -192,7 +192,7 @@ host=<hostname of destination database>
 user=<db username>
 password=********
 ```
-***NOTE*** - *The source database name for `mysqldump` is provided as command line variable and is NOT taken from this config.*
+***NOTE*** - *The source database name for `mysqldump` is provided as command line variable and is NOT taken from this config.*jjjjjj
 
 ### Cron
 Three cron jobs are required for the campaign reports:
